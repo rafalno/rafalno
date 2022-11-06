@@ -1,2 +1,7 @@
-- 👋 Hi, I’m Rafal
-- 🌱 I’m Data science student
+### Hello!
+
+👋 My name is Rafal.
+🌱 I’m Data science student.
+ 
+
+
