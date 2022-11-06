@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Rafal
+- 🌱 I’m Data science student
